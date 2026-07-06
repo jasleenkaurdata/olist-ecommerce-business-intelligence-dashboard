@@ -1,3 +1,7 @@
+-- SQL Dialect: SQLite
+-- Developed using SQLite for data analysis and Power BI preparation.
+
+
 -- Check missing values
 
 SELECT 
